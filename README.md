@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
 [![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/)
 -->
-![This is my avatar](https://github.com/ValentinaMarta/ValentinaMarta/blob/main/avatar.png)
+![This is my avatar](https://github.com/ValentinaMarta/ValentinaMarta/blob/main/vfm.jpeg)
 
 <!--[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/) -->
 
