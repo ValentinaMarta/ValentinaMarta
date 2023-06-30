@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 <!--[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/) -->
 
 
-- :purple_heart: I’m currently learning web-fullstack development    :computer: :computer_mouse:
+- :purple_heart:   :computer: :computer_mouse:
 
 
